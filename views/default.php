@@ -7,7 +7,7 @@
 </head>
 <body>
 <?php var_dump($dados); ?>
-
+	TESTE
 	
 	<script type="text/javascript" src="<?=BASE_URL.'/assets/js/jquery-3.2.1.min.js'?>"></script>
 
